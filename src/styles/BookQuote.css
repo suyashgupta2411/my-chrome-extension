@@ -1,0 +1,26 @@
+.book-quote {
+  background-color: #333;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+
+.book-quote h2 {
+  margin-top: 0;
+  font-size: 1.5rem;
+}
+
+.book-quote blockquote {
+  margin: 0;
+  font-style: italic;
+}
+
+.book-quote footer {
+  margin-top: 10px;
+  font-size: 0.9rem;
+}

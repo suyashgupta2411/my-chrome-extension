@@ -1,0 +1,50 @@
+.issue-tracker {
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  max-width: 500px; /* Ensure the form is not too wide */
+  max-height: 400px; /* Set a fixed height */
+  overflow-y: auto; /* Add scroll when content overflows */
+  margin: auto;
+}
+
+.issue-tracker h2 {
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.issue-tracker form {
+  display: flex;
+  flex-direction: column;
+}
+
+.issue-tracker input,
+.issue-tracker textarea {
+  margin-bottom: 10px;
+  padding: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+}
+
+.issue-tracker input {
+  height: 40px;
+}
+
+.issue-tracker textarea {
+  height: 100px;
+}
+
+.issue-tracker button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  align-self: center; /* Center the button */
+}
+
+.issue-tracker button:hover {
+  background-color: #0056b3;
+}

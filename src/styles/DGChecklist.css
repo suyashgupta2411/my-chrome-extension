@@ -1,0 +1,67 @@
+.dg-checklist {
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  height: 100%; /* Ensure it takes the full height of its container */
+  display: flex;
+  flex-direction: column;
+}
+
+.dg-checklist h2 {
+  margin: 0 0 10px;
+}
+
+.input-container {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.dg-checklist input {
+  flex-grow: 1;
+  padding: 10px;
+  border: 1px solid #ced4da;
+  border-radius: 5px;
+  margin-right: 10px;
+}
+
+.dg-checklist button {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+}
+
+.dg-checklist button:hover {
+  background-color: #0056b3;
+}
+
+.dg-checklist ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  overflow-y: auto;
+  flex-grow: 1; /* Allow it to grow and take available space */
+}
+
+.dg-checklist li {
+  padding: 10px 0;
+  border-bottom: 1px solid #dee2e6;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.dg-checklist li.completed {
+  text-decoration: line-through;
+  color: #6c757d;
+}
+
+.delete-icon {
+  margin-left: 10px;
+  cursor: pointer;
+  color: red;
+}

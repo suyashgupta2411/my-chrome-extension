@@ -1,0 +1,67 @@
+.pomodoro-timer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1e1e1e;
+  border-radius: 10px;
+  padding: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  margin-bottom: 20px;
+  width: 100%;
+  height: 80px;
+  color: white;
+}
+
+.controls {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.controls button {
+  margin: 5px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #007bff;
+  color: white;
+  cursor: pointer;
+  font-size: 0.8rem;
+}
+
+.controls button:hover {
+  background-color: #0056b3;
+}
+
+.timer {
+  position: relative;
+  width: 70px;
+  height: 70px;
+  margin-bottom: 5px;
+}
+
+.timer-svg {
+  transform: rotate(-90deg);
+}
+
+.timer-bg {
+  fill: none;
+  stroke: #e6e6e6;
+  stroke-width: 10px; /* Make the ring thicker */
+}
+
+.timer-progress {
+  fill: none;
+  stroke: #007bff;
+  stroke-width: 10px; /* Make the ring thicker */
+  transition: stroke-dashoffset 0.5s;
+}
+
+.timer-text {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  font-size: 1rem;
+  color: white;
+}

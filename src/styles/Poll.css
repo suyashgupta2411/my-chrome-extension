@@ -1,0 +1,40 @@
+.poll {
+  padding: 20px;
+  background-color: #333333;
+  border-radius: 10px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  color: white;
+  height: 100%; /* Ensure it fills the widget's height */
+  overflow-y: auto; /* Make the widget scrollable */
+}
+
+.poll-option {
+  margin-bottom: 20px;
+}
+
+.poll-option input {
+  margin-right: 10px;
+}
+
+.poll-bar-container {
+  background-color: #444444;
+  border-radius: 5px;
+  overflow: hidden;
+  height: 10px; /* Make the bar thinner */
+  margin-top: 5px;
+  position: relative; /* Positioning for percentage */
+}
+
+.poll-bar {
+  height: 100%;
+  background-color: #007bff;
+  transition: width 0.3s;
+}
+
+.poll-percentage {
+  position: absolute;
+  top: -20px; /* Move percentage above the bar */
+  right: 0;
+  font-size: 0.8rem; /* Smaller font size */
+  color: white;
+}

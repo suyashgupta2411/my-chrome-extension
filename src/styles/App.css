@@ -1,0 +1,163 @@
+/* Importing the font */
+@import url("https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap");
+
+body {
+  font-family: "Josefin Sans", sans-serif;
+  background: linear-gradient(to bottom, #000000, #434343);
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.app-container {
+  display: flex;
+  width: 100%;
+  height: 100vh;
+  color: white;
+}
+
+.left-pane {
+  width: 25%;
+  background-color: #1e1e1e;
+  padding: 20px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  color: white;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.logo {
+  width: 100px;
+  height: auto;
+  margin-top: 120px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+
+.company-name {
+  font-size: 3rem;
+  margin-left: 20px;
+}
+
+.search-bar {
+  width: 100%;
+  margin-bottom: 20px;
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+}
+
+.search-bar input {
+  width: calc(100% - 50px);
+  padding: 10px;
+  font-size: 1rem;
+  box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ddd;
+  border-radius: 50px;
+  outline: none;
+}
+
+.search-button {
+  width: 50px;
+  height: 50px;
+  background: none;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  margin-left: 5px;
+}
+
+.google-logo {
+  width: 100%;
+  height: auto;
+}
+
+.music-player {
+  margin-top: auto;
+  height: 80px;
+}
+
+.right-pane {
+  width: 75%;
+  overflow-y: auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  padding: 20px;
+  background-color: #000000;
+}
+
+.right-pane > div {
+  box-sizing: border-box;
+  width: 45%;
+  margin: 10px 0;
+  background-color: #333333;
+  padding: 20px;
+  border-radius: 10px;
+  color: white;
+  height: 250px;
+  flex: 0 0 45%;
+  margin: 10px;
+}
+
+button {
+  font-size: 1rem;
+}
+
+iframe {
+  border: none;
+}
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  margin: auto;
+  padding: 20px;
+  background: #333333;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 10px;
+  color: white;
+}
+
+.calendar-widget {
+  height: 250px;
+  flex: 0 0 45%;
+  margin: 10px;
+  overflow-y: auto;
+}
+
+.calendar-widget iframe {
+  width: 100%;
+  height: 100%;
+}
+
+.google-spreadsheet,
+.google-form,
+.google-meet,
+.google-keep {
+  height: 250px;
+  flex: 0 0 45%;
+  margin: 10px;
+  overflow-y: auto;
+}
+
+.google-spreadsheet iframe,
+.google-form iframe,
+.google-meet iframe,
+.google-keep iframe {
+  width: 100%;
+  height: 100%;
+}

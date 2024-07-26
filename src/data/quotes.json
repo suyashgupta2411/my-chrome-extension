@@ -1,0 +1,472 @@
+[
+    {
+        "quote": "It is only with the heart that one can see rightly; what is essential is invisible to the eye.",
+        "book": "The Little Prince",
+        "author": "Antoine de Saint-Exupéry"
+    },
+    {
+        "quote": "All that is gold does not glitter, not all those who wander are lost.",
+        "book": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "book": "Ralph Waldo Emerson",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "The only thing we have to fear is fear itself.",
+        "book": "Franklin D. Roosevelt's Inaugural Address",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "You only live once, but if you do it right, once is enough.",
+        "book": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald"
+    },
+    {
+        "quote": "In three words I can sum up everything I've learned about life: it goes on.",
+        "book": "The Road Not Taken",
+        "author": "Robert Frost"
+    },
+    {
+        "quote": "The world breaks everyone, and afterward, some are strong at the broken places.",
+        "book": "A Farewell to Arms",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "quote": "The truth is rarely pure and never simple.",
+        "book": "The Importance of Being Earnest",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "To the well-organized mind, death is but the next great adventure.",
+        "book": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling"
+    },
+    {
+        "quote": "It is our choices that show what we truly are, far more than our abilities.",
+        "book": "Harry Potter and the Chamber of Secrets",
+        "author": "J.K. Rowling"
+    },
+    {
+        "quote": "We are all fools in love.",
+        "book": "Pride and Prejudice",
+        "author": "Jane Austen"
+    },
+    {
+        "quote": "A room without books is like a body without a soul.",
+        "book": "The Republic",
+        "author": "Plato"
+    },
+    {
+        "quote": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+        "book": "The Rebel",
+        "author": "Albert Camus"
+    },
+    {
+        "quote": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
+        "book": "Long Walk to Freedom",
+        "author": "Nelson Mandela"
+    },
+    {
+        "quote": "You must be the change you wish to see in the world.",
+        "book": "Mahatma Gandhi: His Life and Ideas",
+        "author": "Mahatma Gandhi"
+    },
+    {
+        "quote": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
+        "book": "Strength to Love",
+        "author": "Martin Luther King Jr."
+    },
+    {
+        "quote": "All that we see or seem is but a dream within a dream.",
+        "book": "A Dream Within a Dream",
+        "author": "Edgar Allan Poe"
+    },
+    {
+        "quote": "The best way to predict the future is to invent it.",
+        "book": "The Innovator's Dilemma",
+        "author": "Peter Drucker"
+    },
+    {
+        "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+        "book": "Do Not Go Gentle into That Good Night",
+        "author": "Dylan Thomas"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+        "book": "The Works of Franklin D. Roosevelt",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "To love and be loved is to feel the sun from both sides.",
+        "book": "The Four Loves",
+        "author": "C.S. Lewis"
+    },
+    {
+        "quote": "I am no bird; and no net ensnares me: I am a free human being with an independent will.",
+        "book": "Jane Eyre",
+        "author": "Charlotte Brontë"
+    },
+    {
+        "quote": "The best of us must sometimes eat our words.",
+        "book": "The Best of Us",
+        "author": "William Makepeace Thackeray"
+    },
+    {
+        "quote": "I have always imagined that Paradise will be a kind of library.",
+        "book": "The Library of Babel",
+        "author": "Jorge Luis Borges"
+    },
+    {
+        "quote": "The secret of getting ahead is getting started.",
+        "book": "The Secret of Getting Ahead",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "You have brains in your head. You have feet in your shoes. You can steer yourself any direction you choose.",
+        "book": "Oh, the Places You'll Go!",
+        "author": "Dr. Seuss"
+    },
+    {
+        "quote": "It is never too late to be what you might have been.",
+        "book": "Middlemarch",
+        "author": "George Eliot"
+    },
+    {
+        "quote": "Life is what happens when you're busy making other plans.",
+        "book": "Beautiful Boy",
+        "author": "John Lennon"
+    },
+    {
+        "quote": "Everything you can imagine is real.",
+        "book": "The Portable Salvador Dalí",
+        "author": "Salvador Dalí"
+    },
+    {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "book": "You Learn by Living",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "We accept the love we think we deserve.",
+        "book": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky"
+    },
+    {
+        "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "book": "The Dhammapada",
+        "author": "Buddha"
+    },
+    {
+        "quote": "There is no friend as loyal as a book.",
+        "book": "The Book Lover",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "quote": "It does not do to dwell on dreams and forget to live.",
+        "book": "Harry Potter and the Sorcerer's Stone",
+        "author": "J.K. Rowling"
+    },
+    {
+        "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+        "book": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "I would rather be a little nobody, then to be an evil somebody.",
+        "book": "The Secret Garden",
+        "author": "Frances Hodgson Burnett"
+    },
+    {
+        "quote": "The best way out is always through.",
+        "book": "The Road Less Traveled",
+        "author": "Robert Frost"
+    },
+    {
+        "quote": "It is not length of life, but depth of life.",
+        "book": "The Essays of Arthur Schopenhauer",
+        "author": "Arthur Schopenhauer"
+    },
+    {
+        "quote": "The only impossible journey is the one you never begin.",
+        "book": "The Old Man and the Sea",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "book": "Man and the Gospel",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "quote": "The greatest wealth is to live content with little.",
+        "book": "The Art of Contentment",
+        "author": "Plato"
+    },
+    {
+        "quote": "Not all those who wander are lost.",
+        "book": "The Lord of the Rings",
+        "author": "J.R.R. Tolkien"
+    },
+    {
+        "quote": "The man who does not read has no advantage over the man who cannot read.",
+        "book": "The Reading Habit",
+        "author": "Mark Twain"
+    },
+    {
+        "quote": "You miss 100% of the shots you don't take.",
+        "book": "The Art of War",
+        "author": "Wayne Gretzky"
+    },
+    {
+        "quote": "It is not the years in your life that count. It is the life in your years.",
+        "book": "The Meaning of Life",
+        "author": "Abraham Lincoln"
+    },
+    {
+        "quote": "The unexamined life is not worth living.",
+        "book": "Apology",
+        "author": "Socrates"
+    },
+    {
+        "quote": "We do not remember days; we remember moments.",
+        "book": "The Art of Memory",
+        "author": "Cesare Pavese"
+    },
+    {
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "book": "The Nicomachean Ethics",
+        "author": "Aristotle"
+    },
+    {
+        "quote": "It is never too late to be what you might have been.",
+        "book": "Middlemarch",
+        "author": "George Eliot"
+    },
+    {
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "book": "Ralph Waldo Emerson",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "book": "The Greatest Wealth",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+        "book": "The Rebel",
+        "author": "Albert Camus"
+    },
+    {
+        "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+        "book": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+        "book": "Do Not Go Gentle into That Good Night",
+        "author": "Dylan Thomas"
+    },
+    {
+        "quote": "In the middle of difficulty lies opportunity.",
+        "book": "The Purpose Driven Life",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+        "book": "The Works of Franklin D. Roosevelt",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "The purpose of our lives is to be happy.",
+        "book": "The Dalai Lama’s Book of Wisdom",
+        "author": "Dalai Lama"
+    },
+    {
+        "quote": "The best revenge is massive success.",
+        "book": "The Secret",
+        "author": "Frank Sinatra"
+    },
+    {
+        "quote": "Life is what happens when you're busy making other plans.",
+        "book": "Beautiful Boy",
+        "author": "John Lennon"
+    },
+    {
+        "quote": "Everything you can imagine is real.",
+        "book": "The Portable Salvador Dalí",
+        "author": "Salvador Dalí"
+    },
+    {
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "book": "Ralph Waldo Emerson",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "book": "You Learn by Living",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "We accept the love we think we deserve.",
+        "book": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky"
+    },
+    {
+        "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "book": "The Dhammapada",
+        "author": "Buddha"
+    },
+    {
+        "quote": "There is no friend as loyal as a book.",
+        "book": "The Book Lover",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "quote": "The mind is everything. What you think you become.",
+        "book": "The Art of Living",
+        "author": "Buddha"
+    },
+    {
+        "quote": "The only impossible journey is the one you never begin.",
+        "book": "The Old Man and the Sea",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "book": "Man and the Gospel",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "quote": "The greatest wealth is to live content with little.",
+        "book": "The Art of Contentment",
+        "author": "Plato"
+    },
+    {
+        "quote": "The only person you are destined to become is the person you decide to be.",
+        "book": "As a Man Thinketh",
+        "author": "James Allen"
+    },
+    {
+        "quote": "We do not remember days; we remember moments.",
+        "book": "The Art of Memory",
+        "author": "Cesare Pavese"
+    },
+    {
+        "quote": "We are what we repeatedly do. Excellence, then, is not an act, but a habit.",
+        "book": "The Nicomachean Ethics",
+        "author": "Aristotle"
+    },
+    {
+        "quote": "It is never too late to be what you might have been.",
+        "book": "Middlemarch",
+        "author": "George Eliot"
+    },
+    {
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "book": "Ralph Waldo Emerson",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "What lies behind us and what lies before us are tiny matters compared to what lies within us.",
+        "book": "The Greatest Wealth",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "The only way to deal with an unfree world is to become so absolutely free that your very existence is an act of rebellion.",
+        "book": "The Rebel",
+        "author": "Albert Camus"
+    },
+    {
+        "quote": "To live is the rarest thing in the world. Most people exist, that is all.",
+        "book": "The Picture of Dorian Gray",
+        "author": "Oscar Wilde"
+    },
+    {
+        "quote": "Do not go gentle into that good night. Rage, rage against the dying of the light.",
+        "book": "Do Not Go Gentle into That Good Night",
+        "author": "Dylan Thomas"
+    },
+    {
+        "quote": "In the middle of difficulty lies opportunity.",
+        "book": "The Purpose Driven Life",
+        "author": "Albert Einstein"
+    },
+    {
+        "quote": "The only limit to our realization of tomorrow is our doubts of today.",
+        "book": "The Works of Franklin D. Roosevelt",
+        "author": "Franklin D. Roosevelt"
+    },
+    {
+        "quote": "The purpose of our lives is to be happy.",
+        "book": "The Dalai Lama’s Book of Wisdom",
+        "author": "Dalai Lama"
+    },
+    {
+        "quote": "The best revenge is massive success.",
+        "book": "The Secret",
+        "author": "Frank Sinatra"
+    },
+    {
+        "quote": "Life is what happens when you're busy making other plans.",
+        "book": "Beautiful Boy",
+        "author": "John Lennon"
+    },
+    {
+        "quote": "Everything you can imagine is real.",
+        "book": "The Portable Salvador Dalí",
+        "author": "Salvador Dalí"
+    },
+    {
+        "quote": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
+        "book": "Ralph Waldo Emerson",
+        "author": "Ralph Waldo Emerson"
+    },
+    {
+        "quote": "The future belongs to those who believe in the beauty of their dreams.",
+        "book": "You Learn by Living",
+        "author": "Eleanor Roosevelt"
+    },
+    {
+        "quote": "We accept the love we think we deserve.",
+        "book": "The Perks of Being a Wallflower",
+        "author": "Stephen Chbosky"
+    },
+    {
+        "quote": "Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.",
+        "book": "The Dhammapada",
+        "author": "Buddha"
+    },
+    {
+        "quote": "There is no friend as loyal as a book.",
+        "book": "The Book Lover",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "quote": "The mind is everything. What you think you become.",
+        "book": "The Art of Living",
+        "author": "Buddha"
+    },
+    {
+        "quote": "The only impossible journey is the one you never begin.",
+        "book": "The Old Man and the Sea",
+        "author": "Ernest Hemingway"
+    },
+    {
+        "quote": "Life isn't about finding yourself. Life is about creating yourself.",
+        "book": "Man and the Gospel",
+        "author": "George Bernard Shaw"
+    },
+    {
+        "quote": "The greatest wealth is to live content with little.",
+        "book": "The Art of Contentment",
+        "author": "Plato"
+    },
+    {
+        "quote": "The only person you are destined to become is the person you decide to be.",
+        "book": "As a Man Thinketh",
+        "author": "James Allen"
+    }
+]
